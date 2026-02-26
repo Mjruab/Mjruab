@@ -42,3 +42,8 @@ if st.button('Presiona el botón'):
 else:
   st.write('No has presionado aún')
   
+st.subheader("Selectbox")
+in_mod = st.selectbox(
+  "Selecciona la modalidad",
+  ("Ausio", "Visual", "Háptico"),
+)
