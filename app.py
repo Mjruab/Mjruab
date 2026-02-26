@@ -55,4 +55,3 @@ else in_mod == "Visual":
 else in_mod == "Háptico":
   set_mod = "Activar vibración"
 st.write("La acción es:", set_mod)
-
