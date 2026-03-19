@@ -34,7 +34,7 @@ h3 { color: #aec7e8; }
 """, unsafe_allow_html=True)
 
 # ── Título e introducción ───────────────────────────────────────────
-st.title("🖥️ Interfaces Multimodales")
+st.title("🖥️ Interfaces Multimodales - Mi primera App!")
 st.header("Desarrollo de aplicaciones interactivas")
 st.write("Explora las distintas modalidades de interacción humano-computador.")
 
