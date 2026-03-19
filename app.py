@@ -5,7 +5,7 @@ from PIL import Image
 st.markdown("""
 <style>
 /* Fondo general */
-.stApp { background-color: #0f1117; color: #f0f0f0; }
+.stApp { background-color: #fffde7; color: #333333; }
 
 /* Botón principal */
 div.stButton > button {
